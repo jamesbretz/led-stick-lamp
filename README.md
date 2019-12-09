@@ -36,3 +36,12 @@ LED Stick Lamp, RGB+CCT strip with Gledopto Zigbee Controller
 ![wiring](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/wiring_2.JPG)
 
 ![wiring](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/wiring_3.JPG)
+
+### Finish
+
+Add homekit support with the homebridge-hue plugin.
+
+![dog tax](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/dog_tax.JPG)
+
+
+

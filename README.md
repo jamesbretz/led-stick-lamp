@@ -31,8 +31,8 @@ LED Stick Lamp, RGB+CCT strip with Gledopto Zigbee Controller
 
 ![strip install](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/strip_install.JPG)
 
-![wiring](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/wiring_1.jpg)
+![wiring](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/wiring_1.JPG)
 
-![wiring](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/wiring_2.jpg)
+![wiring](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/wiring_2.JPG)
 
-![wiring](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/wiring_3.jpg)
+![wiring](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/wiring_3.JPG)

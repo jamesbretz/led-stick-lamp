@@ -20,3 +20,11 @@ LED Stick Lamp, RGB+CCT strip with Gledopto Zigbee Controller
 ![printed](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/shell_print.JPG)
 
 ![all](https://github.com/jamesbretz/led-stick-lamp/blob/master/images/base_shell.JPG)
+
+### Assembly
+- Cut the extrusion to length, which will be dependant on the cut lines of your LED strip. Remember that 24v strip usually has less cut lines than 12v strip.
+- Clean the face of the aluminum with isoprpyl alchohol and apply the LED strip using the adhesive backing.
+- Slide the extrusion on to the shell. Fitment is extremely tight, but some gentle taps with a hammer will seat the extrusion fairly easily. Mind the wiring for the LED strip.
+- Route and connect the LED strip wiring, power supply, and LED controller.
+- Push the base and shell together, they are friction fit. You may need to tap the extrusion down a bit further once the base is attached.
+- Pop the cap on the top and fire it up. 
